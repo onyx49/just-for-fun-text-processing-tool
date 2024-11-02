@@ -1,16 +1,9 @@
-# TEXT PROCESSING APP
-# GROUP 3
-# AKLAMANU-Bernice-Akorfa-10891087
-# AMANKWAH-Bright-10904493 (Group Leader)
-# TEKYIWAA-Gloria-10892800
-# ESSEL-Eric-Kwesi-10918661
-
-#Meta_Data
-
-#Bright --> main code block (various functions)
-#Gloria --> presentation and some part of input code 
-#Essel and Bernice --> output code
-
+# Just for fun text Processing tool 
+# Created By: Bright Amankwah
+# Version: 1.0
+# Requirements: none
+# Description: This tool helps you perform basic and simple tasks that word processing tools such as finding and replacing texts, searching
+# line of strings in a text, it's pretty awesome .
 
 
 #FontStyle
@@ -197,7 +190,7 @@ def find_and_replace(text, word_to_replace, replace_with, count):  #Function to 
 
     
 
-#INPUT BLOCK
+
 
 print (f"\n====================={yellow}{black_fg}COMMANDLINE TEXT PROCESSING APP GROUP 3{end_fg}{end_bg}========================\n")
 print(f"{italics}Hint: Use option 1, if your text in the file has not been grouped into lines{end}")
@@ -233,7 +226,7 @@ else:
     print (f"{red_fg}Please select 1 or 2{end_fg}")
     exit()
 
-#INTPUT AND OUTPUT BLOCK        
+      
 while True:    
         try:
             if options == '1':
