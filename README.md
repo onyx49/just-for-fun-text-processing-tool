@@ -1,4 +1,4 @@
-# Text Processing tool for Developers 😊😊
+# Just for fun commandline Text Processing tool for Developers 😊😊
 Created By: Onyxhackhat <BR />
 Description: With this tool you can locate words or sentences in a given text, find and replace those words or sentences e.t.c. More featurers will be added in future versions
 ![image](https://github.com/user-attachments/assets/b6385ffe-cbea-4f9f-8e8a-35fcda3eaf6d)
@@ -16,4 +16,4 @@ engineering.<BR /><BR />
 Python 3.x<BR />
 
 ## Usage
-python Text_proc.py
+`python Text_proc.py`
