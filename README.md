@@ -2,7 +2,7 @@
 Created By: Onyxhackhat <BR />
 Description: With this tool you can locate words or sentences in a given text, find and replace those words or sentences e.t.c. More featurers will be added in future versions
 ![image](https://github.com/user-attachments/assets/b6385ffe-cbea-4f9f-8e8a-35fcda3eaf6d)
-engineering.<BR /><BR />
+<BR />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/onyx49?style=social">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/onyx49?style=social">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/onyx49/just_for_fun">
