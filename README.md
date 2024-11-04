@@ -1,5 +1,5 @@
 # Simple Text Processing tool
-Created By: Onyxhackhat <BR />
+Created By: Onyxhackhat <BR /><BR />
 Description: With this tool you don't need a word processing tool or an online tool for your simple text processing tasks like counting the number of spaces, characters or words, searching for specific words, finding and replacing those words in a given text.  More featurers will be added in future versions.<BR/>
 _**NB: This tool was created using basic python functions**_
 
