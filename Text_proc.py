@@ -1,5 +1,5 @@
 # Just for fun text Processing tool 
-# Created By: Bright Amankwah
+# Created By: Onyxhackhat
 # Version: 1.0
 # Requirements: none
 # Description: This tool helps you perform basic and simple tasks that word processing tools such as finding and replacing texts, searching
@@ -192,7 +192,7 @@ def find_and_replace(text, word_to_replace, replace_with, count):  #Function to 
 
 
 
-print (f"\n====================={yellow}{black_fg}COMMANDLINE TEXT PROCESSING APP GROUP 3{end_fg}{end_bg}========================\n")
+print (f"\n====================={yellow}{black_fg}COMMANDLINE TEXT PROCESSING APP{end_fg}{end_bg}========================\n")
 print(f"{italics}Hint: Use option 1, if your text in the file has not been grouped into lines{end}")
 
 options = input("Choose your options \n(1) Paste text in terminal (2) Read text from file (:q to quit) \n")
